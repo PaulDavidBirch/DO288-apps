@@ -1,5 +1,7 @@
 #!/bin/sh
 
+ls -al /opt/app-root/bin
+
 echo "Starting hello-java app..."
 echo "JVM options => $JAVA_OPTIONS"
 echo
